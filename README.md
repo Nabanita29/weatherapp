@@ -30,11 +30,11 @@ The recommendation will also be spoken out using text-to-speech.
 Example:
 Enter your city: London
 Enter the date (YYYY-MM-DD) for which you want the forecast: 2023-06-06
-Forecast for London on 2023-06-06:
-Date: 2023-06-06 09:00:00, Temperature: 18.5°C, Wind Speed: 3.12 m/s, Feels Like: 17.9°C, Weather: Rain, Description: light rain
-Date: 2023-06-06 12:00:00, Temperature: 20.3°C, Wind Speed: 3.62 m/s, Feels Like: 19.8°C, Weather: Rain, Description: light rain
-Date: 2023-06-06 15:00:00, Temperature: 21.2°C, Wind Speed: 4.12 m/s, Feels Like: 20.7°C, Weather: Rain, Description: light rain
-Date: 2023-06-06 18:00:00, Temperature: 19.8°C, Wind Speed: 4.42 m/s, Feels Like: 19.3°C, Weather: Rain, Description: moderate rain
+Forecast for London on 2023-06-06:  
+Date: 2023-06-06 09:00:00, Temperature: 18.5°C, Wind Speed: 3.12 m/s, Feels Like: 17.9°C, Weather: Rain, Description: light rain  
+Date: 2023-06-06 12:00:00, Temperature: 20.3°C, Wind Speed: 3.62 m/s, Feels Like: 19.8°C, Weather: Rain, Description: light rain  
+Date: 2023-06-06 15:00:00, Temperature: 21.2°C, Wind Speed: 4.12 m/s, Feels Like: 20.7°C, Weather: Rain, Description: light rain  
+Date: 2023-06-06 18:00:00, Temperature: 19.8°C, Wind Speed: 4.42 m/s, Feels Like: 19.3°C, Weather: Rain, Description: moderate rain  
 
 Weather Recommendation: It's rainy at that time. Don't forget to carry an umbrella!
 
