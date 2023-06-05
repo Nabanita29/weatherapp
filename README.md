@@ -5,20 +5,24 @@ This project provides a weather forecast and recommendation based on the OpenWea
 
 Prerequisites
 Before running the project, make sure you have the following:
+
 Python 3.x installed on your machine
 Required Python packages installed (requests, pprint, pyttsx3)
 
 Getting Started
+
 Clone the repository or download the project files.
 Install the required packages by running the following command:
 pip install requests pprint pyttsx3
 Open the Python script file weather_forecast.py in a text editor.
 
 Usage
+
 Run the Python script weather_forecast.py using the following command:
 python weather_forecast.py
 
-Enter your city when prompted: Enter your city: 
+Enter your city when prompted: 
+Enter your city: 
 Enter the desired date in the format YYYY-MM-DD when prompted: Enter the date (YYYY-MM-DD) for which you want the forecast: .
 The script will fetch the weather forecast from the OpenWeatherMap API and display the forecast for the specified date, as well as a recommendation based on the weather conditions.
 
