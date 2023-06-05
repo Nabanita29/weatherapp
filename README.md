@@ -1,4 +1,4 @@
-# weatherapp
+# Weatherapp
 
 Weather Forecast and Recommendation
 This project provides a weather forecast and recommendation based on the OpenWeatherMap API. It allows users to input a city and a desired date to get the forecast for that specific date and receive a recommendation based on the weather conditions.
