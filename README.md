@@ -3,18 +3,16 @@
 Weather Forecast and Recommendation
 This project provides a weather forecast and recommendation based on the OpenWeatherMap API. It allows users to input a city and a desired date to get the forecast for that specific date and receive a recommendation based on the weather conditions.
 
-Prerequisites
-Before running the project, make sure you have the following:
+Prerequisites  
+Before running the project, make sure you have the following:  
+Python 3.x installed on your machine  
+Required Python packages installed (requests, pprint, pyttsx3)  
 
-Python 3.x installed on your machine
-Required Python packages installed (requests, pprint, pyttsx3)
-
-Getting Started
-
-Clone the repository or download the project files.
-Install the required packages by running the following command:
-pip install requests pprint pyttsx3
-Open the Python script file weather_forecast.py in a text editor.
+Getting Started  
+Clone the repository or download the project files.  
+Install the required packages by running the following command:  
+pip install requests pprint pyttsx3  
+Open the Python script file weather_forecast.py in a text editor.  
 
 Usage
 
