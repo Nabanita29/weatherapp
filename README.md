@@ -5,7 +5,6 @@ This project provides a weather forecast and recommendation based on the OpenWea
 
 Prerequisites
 Before running the project, make sure you have the following:
-
 Python 3.x installed on your machine
 Required Python packages installed (requests, pprint, pyttsx3)
 
