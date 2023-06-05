@@ -39,10 +39,10 @@ Date: 2023-06-06 18:00:00, Temperature: 19.8°C, Wind Speed: 4.42 m/s, Feels Lik
 Weather Recommendation: It's rainy at that time. Don't forget to carry an umbrella!
 
 Acknowledgments
-This project uses the OpenWeatherMap API for weather data.
-The text-to-speech functionality is provided by the pyttsx3 library.
-The requests library is used for making HTTP requests to the API.
-The pprint module is used for pretty-printing the forecast data.
+This project uses the OpenWeatherMap API for weather data.  
+The text-to-speech functionality is provided by the pyttsx3 library.  
+The requests library is used for making HTTP requests to the API.  
+The pprint module is used for pretty-printing the forecast data.  
 
 
 
