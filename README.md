@@ -14,15 +14,14 @@ Install the required packages by running the following command:
 pip install requests pprint pyttsx3  
 Open the Python script file weather_forecast.py in a text editor.  
 
-Usage
-
+Usage  
 Run the Python script weather_forecast.py using the following command:
 python weather_forecast.py
 
-Enter your city when prompted: 
-Enter your city: 
-Enter the desired date in the format YYYY-MM-DD when prompted: Enter the date (YYYY-MM-DD) for which you want the forecast: .
-The script will fetch the weather forecast from the OpenWeatherMap API and display the forecast for the specified date, as well as a recommendation based on the weather conditions.
+Enter your city when prompted:   
+Enter your city:   
+Enter the desired date in the format YYYY-MM-DD when prompted: Enter the date (YYYY-MM-DD) for which you want the forecast: .  
+The script will fetch the weather forecast from the OpenWeatherMap API and display the forecast for the specified date, as well as a recommendation based on the weather conditions.  
 
 The recommendation will also be spoken out using text-to-speech.
 Example:
